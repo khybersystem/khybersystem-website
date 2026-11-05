@@ -1,0 +1,23 @@
+# Khyber System
+
+> Khyber System is an information technology company focused on custom software development and practical AI solutions.
+
+## Brand
+- Name: Khyber System
+- Tagline: Building Technology on Trust
+- Website: https://khybersystem.dpdns.org/
+- Email: khybersystem@gmail.com
+- WhatsApp: +92 336 5980901
+
+## Services
+### Custom Software Development
+Tailored software and web applications designed around business workflows and operational needs.
+
+### AI Solutions
+Practical AI integrations and intelligent workflows to reduce repetitive tasks and support better business decisions.
+
+## Principles
+Khyber System values honesty, fair pricing, integrity, quality work, and long-term client relationships.
+
+## Contact
+For project inquiries, email khybersystem@gmail.com or contact the team on WhatsApp at +92 336 5980901.

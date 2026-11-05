@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khybersystem.dpdns.org/sitemap.xml
